@@ -40,6 +40,8 @@ tex(){
         elif [ "$action" == "2" ]; then
                 echo "sending files..."
 
+                NOT FINISHED THO 
+
         else
                 echo "Invalid choice"
                 tex
